@@ -27,11 +27,15 @@ An ongoing AI application project exploring image/text product identification an
 
 *Public project link to be added when available.*
 
-### [Financial Analytics: S&P 500 Prediction](https://doi.org/10.1109/BigData66926.2025.11402545)
+### Financial Analytics: S&P 500 Prediction
 
-Co-authored research combining macroeconomic indicators and market data for predictive financial analytics. I contributed to the data preparation, feature engineering, and visual analysis using Python.
+**Project Initiator & Primary Technical Contributor | IEEE Big Data 2025 Co-author**
 
-**Research:** [IEEE Big Data 2025 conference paper](https://doi.org/10.1109/BigData66926.2025.11402545)
+Initiated the research direction and played a leading technical role in developing an S&P 500 prediction framework combining macroeconomic indicators and market data.
+
+Independently developed the Python data extraction and preprocessing pipeline, engineered time-series features, and created core financial visualizations. Collaborated with co-authors on machine learning experiments and research development.
+
+**Publication:** [IEEE Big Data 2025](https://doi.org/10.1109/BigData66926.2025.11402545)
 
 ## Professional Experience Highlights
 
